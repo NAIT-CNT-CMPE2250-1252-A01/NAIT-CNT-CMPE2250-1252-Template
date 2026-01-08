@@ -1,6 +1,6 @@
-# CMPE1250 - Fall, 2025
+# CMPE2250 - Winter, 2026
 
-This repository has been set up with an appropriate folder structure for your CMPE1250 class work.
+This repository has been set up with an appropriate folder structure for your CMPE2250 class work.
 
 - In-Class Assignments go in the \ICAs folder
 - Lab assignments go in the \LABs folder
