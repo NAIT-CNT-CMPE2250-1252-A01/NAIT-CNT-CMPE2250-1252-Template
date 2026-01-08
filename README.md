@@ -5,7 +5,7 @@ This repository has been set up with an appropriate folder structure for your CM
 - In-Class Assignments go in the \ICAs folder
 - Lab assignments go in the \LABs folder
 - Your libraries should only exist in your \Lib folder
-- Some data sheets have been provided in the \Datasheets directory; feel free to add to it
+- Some data sheets have been provided in the \datasheets directory; feel free to add to it
 
 ## Libraries
 
