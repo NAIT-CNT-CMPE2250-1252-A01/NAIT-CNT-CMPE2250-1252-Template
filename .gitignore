@@ -1,0 +1,29 @@
+# SEGGER Embedded Studio build artifacts
+*.o
+*.elf
+*.hex
+*.ko
+*.obj
+*.ilk
+*.bin
+*.map
+*.exp
+Output/
+Debug/
+Release/
+
+# SEGGER Embedded Studio project files and settings
+*.emProject.user
+*.emProject.local
+*.emProject.bak
+Solution.emSolution.user
+Solution.emSolution.local
+Solution.emSolution.bak
+
+# SEGGER J-Link related files (if applicable)
+JLinkSettings.ini
+
+# Other common exclusions
+.DS_Store
+Thumbs.db
+*.log
