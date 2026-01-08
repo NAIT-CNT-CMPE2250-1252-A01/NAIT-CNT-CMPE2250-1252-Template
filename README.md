@@ -13,7 +13,7 @@ You should not be copying your libraries into individual projects. All of your p
 
 ## C File Templates
 
-The main directory of this repository contains ```Library Template.c``` and ```Main Template.c```. These should be used as the starting points for your main.c project files and your various library c files. They contain a title block that must be updated and some starter code that should be helpful.
+The course LMS contains ```Library Template.c``` and ```Main Template.c```. These should be used as the starting points for your main.c project files and your various library c files. They contain a title block that must be updated and some starter code that should be helpful. Create your own versions of these.
 
 ## A note on submitted assignments
 
